@@ -6,5 +6,7 @@ I managed to complete the exam shortly after midnight after working for about ei
 FILES:
 
 midterm instructions.md  : The original README for the exam.
+
 midterm-test.rkt         : the test cases provided for the exam. Our grade was based on how well our code passed these test cases. 
+
 midterm.rkt              : The exam itself. Aside from some comments and function names, all the code here is my own
